@@ -1,0 +1,70 @@
+
+// .rounded-input {
+//     border-radius: 15px;
+//     padding: 10px;
+//     background-color: #f0f0f0;
+//     margin: 10px 0;
+//     width: 100%;
+//   }
+  
+//   .rounded-button {
+//     border-radius: 20px;
+//     margin: 20px 0;
+//     padding: 15px;
+//   }
+  
+//   ion-item-divider {
+//     margin: 20px 0;
+//     background-color: transparent;
+//   }
+  
+//   .input-label {
+//     font-size: 16px;
+//     margin-bottom: 8px;
+//   }
+  
+//   ion-item {
+//     margin: 15px 0;
+//   }
+  
+/* Styling for rounded inputs and buttons */
+.rounded-input {
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #D4E0F0; /* Columbia color */
+    border: 1px solid #7CB8C0; /* Sea Breeze border */
+    margin: 10px 0;
+    width: 100%;
+  }
+  
+  .rounded-button {
+    border-radius: 20px;
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #A7B5FE; /* Periwinkle button */
+    color: white;
+  }
+  
+  ion-item-divider {
+    margin: 20px 0;
+    background-color: transparent;
+  }
+  
+  .input-label {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #543787; /* Light Indigo text */
+  }
+  
+  ion-item {
+    margin: 15px 0; /* Add margin to ion-item to ensure enough spacing between items */
+  }
+  
+  ion-title {
+    color: #543787; /* Light Indigo text for titles */
+  }
+  
+  ion-toolbar {
+    background-color: #FFEBBA; /* Corrected Lemon Meringue background */
+  }
+  
